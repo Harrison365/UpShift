@@ -27,7 +27,7 @@ import {
 } from "firebase/firestore";
 import firebase from "../config/firebase";
 
-const socket = io("https://upshift-socket-server.herokuapp.com/");
+const socket = io("https://upshift-hr.herokuapp.com/"); //change for each.
 
 const db = firebase.firestore();
 
