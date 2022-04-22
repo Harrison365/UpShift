@@ -27,3 +27,5 @@ iOS USERS: To try out our app on iOS, you will need an iPhone simulator such as 
 https://user-images.githubusercontent.com/96084335/164791196-6d4a749a-c350-4a88-a22b-fa0a6422312c.mp4
 
 - Now you can open and use the app as you would on a regular iOS app.
+
+## We hope that you like it.
