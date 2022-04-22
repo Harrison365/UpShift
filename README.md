@@ -28,4 +28,4 @@ https://user-images.githubusercontent.com/96084335/164791196-6d4a749a-c350-4a88-
 
 - Now you can open and use the app as you would on a regular iOS app.
 
-## We hope that you like it.
+## We hope that you like it.
