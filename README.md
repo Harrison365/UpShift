@@ -1,8 +1,8 @@
 ## UpShift
 
-Welcome to UpShift!
+# Welcome to UpShift!
 
-A React-Native/Firebase App that allows motorbike enthusiasts to find new friends to ride with.
+A React-Native/Firebase App that allows motorbike enthusiasts to find new friends to ride with. They can chat with one another and plan future riding routes.
 
 To watch our demo video, click here >>
 
