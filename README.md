@@ -14,4 +14,14 @@ ANDROID USERS: First, ensure that you have 'Expo Go' installed from the Google P
 
 - https://expo.dev/@harrison_royds/UpShift
 
-iOS USERS: in terminal run 'expo login', 'expo build:ios', then head to your expo user, click download, then drag the zip file into an open Xcode simulator.
+iOS USERS: To try out our app on iOS, you will need an iPhone simulator such as XCode. Then follow the steps below...
+
+- Visit this Dropbox link https://www.dropbox.com/s/xv9jzrog9z7vya9/UpShift.tar.gz?dl=0
+
+- At the top of this page you will be able to click a 'Download' button. This is our iOS build.
+
+- Open the downloaded file. This should contain the 'UpShift' application (Size: 122.6 MB)
+
+- Drag this application into your open iPhone simulator as in the video below.
+
+- Now you can open and use the app as you would on a regular iOS app.
